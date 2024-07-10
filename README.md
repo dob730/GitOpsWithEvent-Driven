@@ -1,2 +1,2 @@
 # GitOpsWithEvent-Driven
-DevOps Taipei工作坊-自動化最後一哩路 當commit新code時，Event-Driven Ansible可以檢視內容與制定原則一致，確保自動化機制根據管理人員希望的方式進行
+DevOps Taipei工作坊-自動化最後一哩路 當commit新code時，Event-Driven Ansible可以檢視內容與制定原則一致，確保自動化機制根據管理人員希望的方式執行
